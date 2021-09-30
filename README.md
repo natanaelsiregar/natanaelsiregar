@@ -1,7 +1,10 @@
+
 - 👋 Hi, I’m @natanaelsiregar
 - 👀 I’m interested in programming, photography, and editing
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on OOP Class
+
+<br/><br/>
 
 <h2 align="center">Find Me</h2>
 

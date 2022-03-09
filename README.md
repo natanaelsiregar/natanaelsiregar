@@ -1,6 +1,6 @@
 
-- 👋 Hi, I’m @natanaelsiregar
-- 👀 I’m interested in programming, photography, and editing
+👋 Hi, I’m @natanaelsiregar<br />
+👀 I’m interested in programming, photography, and editing
 
 <br/><br/>
 

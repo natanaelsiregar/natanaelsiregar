@@ -7,10 +7,10 @@
 <h2 align="center">Find Me</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/natgharz/" title="@natgharz" target="blank" ><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="@natgharz" width="45" /></a> &nbsp;
-  <a href="https://www.youtube.com/channel/UCTnHgoc828X6nYG7C9uB7xg/" title="Natanael Siregar" target="blank" ><img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" alt="Natanael Siregar" width="45" /></a> &nbsp;
-  <a href="https://www.linkedin.com/in/natanaeljansudinsiregar/" title="Natanael Jansudin Siregar" target="blank" ><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Natanael Jansudin Siregar" width="45" /></a> &nbsp;
-  <a href="https://www.hackerrank.com/natgharz" title="Natanael Jansudin Siregar" target="blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="Natanael Jansudin Siregar" width="45" /></a>
+  <a href="https://www.instagram.com/natgharz/" title="@natgharz" target="blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@natgharz" /></a>
+  <a href="https://www.youtube.com/channel/UCTnHgoc828X6nYG7C9uB7xg/" title="Natanael Siregar" target="blank" ><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Natanael Siregar" /></a>
+  <a href="https://www.linkedin.com/in/natanaeljansudinsiregar/" title="Natanael Jansudin Siregar" target="blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Natanael Jansudin Siregar" /></a>
+  <a href="https://www.hackerrank.com/natgharz" title="Natanael Jansudin Siregar" target="blank" ><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Natanael Jansudin Siregar" /></a>
 </p>
 
 <!---
